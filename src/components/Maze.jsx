@@ -48,6 +48,9 @@ const Maze = () => {
   return (
     <div>
       <div>
+        <div className="alert alert-primary" role="alert">
+          Move through the Maze to make it home(green exit). Avoid going out of boundary!
+        </div>
         <button type="button" className="btn btn-outline-primary"  onClick={(e) =>handleClick(e, "up")} >move up</button>
         <button type="button" className="btn btn-outline-primary" onClick={(e) =>handleClick(e, "left")}>move left</button>
         <button type="button" className="btn btn-outline-primary" onClick={(e) =>handleClick(e, "right")}>move right</button>

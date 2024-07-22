@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <div className="App">
-      <h2>This is R-Maze</h2>
+      <h2>R-Maze</h2>
       <Maze />
     </div>
   );
