@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/r-maze/static/css/main.db62923b.css",
+    "main.js": "/r-maze/static/js/main.5501aa8a.js",
+    "static/js/453.813e718b.chunk.js": "/r-maze/static/js/453.813e718b.chunk.js",
+    "static/media/logo.svg": "/r-maze/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/r-maze/index.html",
+    "main.db62923b.css.map": "/r-maze/static/css/main.db62923b.css.map",
+    "main.5501aa8a.js.map": "/r-maze/static/js/main.5501aa8a.js.map",
+    "453.813e718b.chunk.js.map": "/r-maze/static/js/453.813e718b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.5501aa8a.js"
+  ]
+}
